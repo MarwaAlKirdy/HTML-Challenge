@@ -1,0 +1,25 @@
+.codi{
+    margin-left: 45%;
+    font-size: xx-large;
+}
+
+nav{
+    background-color: skyblue;
+}
+
+.nav-item{
+    text-decoration: none;
+    color: purple;
+    font-size: 50px;
+    margin-left: 25px;
+}
+
+.trilogy-img{
+    width: 480px;
+    height: 270px;
+}
+
+.darth-vader-img{
+    width: 580px;
+    margin-left: 25%;
+}
