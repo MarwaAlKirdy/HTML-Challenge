@@ -1,0 +1,70 @@
+body{
+    background-color: silver;
+}
+footer{
+    text-align: center;
+}
+
+header{
+    background-image: url('background.jpg');
+    color:red;
+    height: 300px;
+}
+
+li{
+    text-decoration: underline;
+}
+
+.site-title{
+    margin-left: 10%;
+    font-size: 60px;
+    
+}
+
+nav{
+    width: 1263px;
+    font-size: 60px;
+    text-align: center;
+    background-color: grey ;
+    
+}
+
+.nav-item{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.button{
+    width: 80px;
+    background-color: skyblue;
+}
+
+.button-submit{
+    width: 80px;
+    height: 40px;
+    background-color: skyblue;
+}
+
+.menu-gallery{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.menu-gallery-item-two{
+    width: 60%;
+}
+
+.block-subscription-services{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.item{
+    width: 400px;
+}
+
+.subscription{
+    margin-left: 40.5px;
+}
