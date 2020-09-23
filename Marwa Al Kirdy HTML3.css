@@ -1,21 +1,29 @@
 body{
-    background-color: silver;
+    background-color: rgb(33,43,45);
 }
 footer{
     text-align: center;
 }
 
+
+    
+
 header{
-    background-image: url('background.jpg');
-    color:red;
+    background-image: url("background-header.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
     height: 300px;
 }
+
+
 
 li{
     text-decoration: underline;
 }
 
 .site-title{
+    
     margin-left: 10%;
     font-size: 60px;
     
@@ -25,7 +33,7 @@ nav{
     width: 1263px;
     font-size: 60px;
     text-align: center;
-    background-color: grey ;
+    background-color: rgb(50,60,62) ;
     
 }
 
@@ -36,13 +44,13 @@ nav{
 
 .button{
     width: 80px;
-    background-color: skyblue;
+    background-color: rgb(92,101,102);
 }
 
 .button-submit{
     width: 80px;
     height: 40px;
-    background-color: skyblue;
+    background-color: rgb(92,101,102);
 }
 
 .menu-gallery{
